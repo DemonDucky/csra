@@ -4,8 +4,8 @@ import { clickAndEnrollMenuButtons, courseEnroll, joinProgram } from './utils/jo
 ;(async () => {
   'use strict'
 
-  const username = 'Tranths170071@fpt.edu.vn'
-  const password = 'Tra261220'
+  const username = ''
+  const password = ''
 
   const baseDir = path.join('./', 'profiles')
   if (!fs.existsSync(baseDir)) {
